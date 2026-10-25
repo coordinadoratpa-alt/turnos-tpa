@@ -1,0 +1,8 @@
+TPA - icono para iPhone y Android
+
+1. El enlace de Google Apps Script ya está configurado en config.js. No necesitas modificarlo.
+2. Sube LOS ARCHIVOS de esta carpeta a un alojamiento HTTPS gratuito para sitios estáticos (por ejemplo, GitHub Pages o Cloudflare Pages). No subas el zip sin descomprimir si el sitio requiere una carpeta.
+3. Abre la URL del nuevo sitio con Safari (iPhone) o Chrome (Android), luego Añadir a pantalla de inicio / Instalar.
+4. Si ya hay un icono antiguo, bórralo y crea otro desde la nueva URL.
+
+IMPORTANTE: Es una app LANZADORA para mostrar el icono TPA y abrir el calendario actual. El calendario real sigue alojado en Google Apps Script, que puede abrirse en el navegador externo. No proporciona por sí sola una app completa offline ni elimina la necesidad de conexión.
